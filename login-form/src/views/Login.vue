@@ -38,6 +38,7 @@ export default {
 </script>
 <style>
 .login {
+  border: solid red;
   width: 100%;
   color: white;
   font-size: 14px;

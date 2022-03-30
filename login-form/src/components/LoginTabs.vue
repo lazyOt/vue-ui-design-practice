@@ -9,6 +9,7 @@
 .login_tabs {
   display: flex;
   padding: 0 34px;
+  border: 1px solid red;
 }
 .login_tabs li {
   display: flex;
